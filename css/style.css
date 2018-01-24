@@ -1243,7 +1243,6 @@ body.offcanvas .fh5co-nav-toggle {
 .form-control {
     -webkit-appearance: none;
     -moz-appearance: none;
-    appearance: none;
     box-shadow: none;
     background: transparent;
     border: 2px solid rgba(0, 0, 0, 0.1);
