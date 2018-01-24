@@ -1,13 +1,13 @@
 
 TITLE: 
-Blend - Fully Responsive Free HTML5 template
+Keemfat Engineering Limited
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by HIPHECKTS' INC.
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://hipheckts.github.io/
+Twitter: http://twitter.com/hipheckts
+Facebook: http://facebook.com/afuwapeifeoluwa
 
 
 CREDITS:
