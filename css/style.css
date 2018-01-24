@@ -365,7 +365,7 @@ figure figcaption {
     z-index: 11;
     vertical-align: middle;
     padding-top: 30%;
-    visibility: hidden;
+    visibility: visible;
     opacity: 0;
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
@@ -406,7 +406,7 @@ figure figcaption {
     text-transform: uppercase;
     font-weight: 400;
     bottom: -5px;
-    visibility: hidden;
+    visibility: visible;
     opacity: 0;
 }
 
